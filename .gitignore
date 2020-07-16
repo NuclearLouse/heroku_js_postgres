@@ -1,2 +1,5 @@
 other.txt
 *.exe
+Makefile
+.editorconfig
+.env
